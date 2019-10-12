@@ -1,21 +1,21 @@
 @font-face {
   font-family: FuturaBookC;
-  src: url(assets/fonts/futurabookc.otf);
+  src: url("assets/fonts/futurabookc.otf");
 }
 
 @font-face {
   font-family: FuturaDemiC;
-  src: url(assets/fonts/futurademic.otf);
+  src: url("assets/fonts/futurademic.otf");
 }
 
 @font-face {
   font-family: FuturaMediumC;
-  src: url(/assets/fonts/futuramediumc.otf);
+  src: url("assets/fonts/futuramediumc.otf");
 }
 
 @font-face {
   font-family: Yeseva One;
-  src: url(assets/fonts/YesevaOne-Regular.ttf);
+  src: url("assets/fonts/YesevaOne-Regular.ttf");
 }
 
 .wrapper {
@@ -155,7 +155,7 @@ main {
   position: absolute;
   right: 0%;
   top: 0px;
-  background-image: url(assets/images/intro-backgound.png);
+  background-image: url("assets/images/intro-backgound.png");
   background-size: cover;
 }
 
@@ -478,7 +478,7 @@ main {
 .portfolio--change_project > div:not(.portfolio--change_project-center) {
   width: 20.15%;
   height: 100%;
-  background-image: url(assets/images/arrow-change-project.svg);
+  background-image: url("assets/images/arrow-change-project.svg");
 }
 
 .portfolio--change_project-left {
@@ -513,7 +513,7 @@ main {
   left: 43.32%;
   width: 13.63%;
   height: 0.65%;
-  background-image: url(assets/images/online-control.svg);
+  background-image: url("assets/images/online-control.svg");
   background-position: bottom center;
   background-repeat: no-repeat;
 }
