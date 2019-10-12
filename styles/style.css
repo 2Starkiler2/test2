@@ -155,7 +155,7 @@ main {
   position: absolute;
   right: 0%;
   top: 0px;
-  background-image: url("assets/images/intro-backgound.png");
+  background-image: url("../assets/images/intro-backgound.png");
   background-size: cover;
 }
 
