@@ -513,7 +513,7 @@ main {
   left: 43.32%;
   width: 13.63%;
   height: 0.65%;
-  background-image: url("assets/images/online-control.svg");
+  background-image: url("../assets/images/online-control.svg");
   background-position: bottom center;
   background-repeat: no-repeat;
 }
