@@ -155,7 +155,7 @@ main {
   position: absolute;
   right: 0%;
   top: 0px;
-    background-image: url("../assets/images/intro-backgound.png");
+  background-image: url("../assets/images/intro-backgound.png");
   background-size: cover;
 }
 
@@ -478,7 +478,7 @@ main {
 .portfolio--change_project > div:not(.portfolio--change_project-center) {
   width: 20.15%;
   height: 100%;
-  background-image: url("assets/images/arrow-change-project.svg");
+  background-image: url("../assets/images/arrow-change-project.svg");
 }
 
 .portfolio--change_project-left {
@@ -499,7 +499,7 @@ main {
 .portfolio--change_project-center div {
   width: 15.24%;
   height: 72.06%;
-  background-image: url(assets/images/circle-change-project.svg);
+  background-image: url(../assets/images/circle-change-project.svg);
 }
 
 .portfolio--change_project-center div:hover {
@@ -513,7 +513,7 @@ main {
   left: 43.32%;
   width: 13.63%;
   height: 0.65%;
-  background-image: url("../assets/images/online-control.svg");
+   background-image: url("../assets/images/online-control.svg");
   background-position: bottom center;
   background-repeat: no-repeat;
 }
